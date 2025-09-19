@@ -21,3 +21,7 @@ I'm currently working on several projects related to my research and interests. 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Clearner1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clearner1&layout=compact)](https://github.com/Clearner1)
+
+## WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/881e2cef-e5c7-4c33-b440-155ba197e42a.svg)](https://wakatime.com/@Zane)
